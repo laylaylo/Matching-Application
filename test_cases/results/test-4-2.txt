@@ -1,0 +1,1 @@
+CityList = [cavana,seviliri,san_wm,corse_town,romean]

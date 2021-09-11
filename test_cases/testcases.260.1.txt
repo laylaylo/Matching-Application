@@ -1,0 +1,41 @@
+glanian_distance(galsab, foxfwit, Distance).
+glanian_distance(thrgold_, talrem, Distance).
+glanian_distance(floez, taeayld, Distance).
+weighted_glanian_distance(malophe, onsap, Distance).
+weighted_glanian_distance(eilialexa, ranau, Distance).
+weighted_glanian_distance(zazmis, mysthae, Distance).
+find_possible_cities(fabky, CityList).
+find_possible_cities(taeori, CityList).
+find_possible_cities(lavaow, CityList).
+merge_possible_cities(lavito, thadark_, CityList).
+merge_possible_cities(zynthmis, logno, CityList).
+merge_possible_cities(dracmalu, sirshi, CityList).
+find_mutual_activities(darabig, layquam, ActivityList).
+find_mutual_activities(foxffun, sapcha, ActivityList).
+find_mutual_activities(yvawispm, lili, ActivityList).
+find_possible_targets(dagale, Distances, TargetList).
+find_possible_targets(mortquam, Distances, TargetList).
+find_possible_targets(thrlavi, Distances, TargetList).
+find_weighted_targets(jewzapp, Distances, TargetList).
+find_weighted_targets(balmerl, Distances, TargetList).
+find_weighted_targets(ilyrmire, Distances, TargetList).
+find_my_best_target(josizar, Distances, ActivityList, CityList, TargetList).
+find_my_best_target(anthgall, Distances, ActivityList, CityList, TargetList).
+find_my_best_target(jaylren, Distances, ActivityList, CityList, TargetList).
+find_my_best_match(anthgall, Distances, ActivityList, CityList, TargtList).
+find_my_best_match(nysow, Distances, ActivityList, CityList, TargetList).
+find_my_best_match(gold_aid, Distances, ActivityList, CityList, TargetList).
+
+
+
+
+
+
+
+
+
+
+
+
+
+

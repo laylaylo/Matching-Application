@@ -1,0 +1,1 @@
+CityList = [barcalana,seviliri,seaghoul,prodo,sayn_franc]

@@ -1,0 +1,4 @@
+Distances = [0.5658400346573222,0.5680204311082775,0.6036713595003282,0.6036713595003282,0.6036713595003282,0.6036713595003282,0.6036713595003282,0.6036713595003282,0.6036713595003282,0.616959647328217,0.616959647328217,0.616959647328217,0.616959647328217,0.616959647328217,0.616959647328217,0.616959647328217,0.7012224540725212]
+ActivityList = [drink,volleyball,card_game,dancin,drink,playing_dolls,puppet_show,surfing,volleyball,boxing,card_game,cooking,crafting,eating,music,paint,cooking]
+CityList = [prodo,prodo,prodo,prodo,prodo,prodo,prodo,prodo,prodo,san_wm,san_wm,san_wm,san_wm,san_wm,san_wm,san_wm,san_wm]
+TargetList = [emtend,yofunethin,zappvir,zappvir,zappvir,zappvir,zappvir,zappvir,zappvir,caeignin,caeignin,caeignin,caeignin,caeignin,caeignin,caeignin,akibaur]
